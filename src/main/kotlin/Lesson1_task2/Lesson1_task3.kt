@@ -25,5 +25,5 @@ fun main() {
     println("Взлет – $hourTakeoff:$minuteTakeoff")
     println("Посадка – $hourLanding:$minuteLanding")
 //    Подсказка для вывода: какой метод печати в консоль не делает перенос в конце строки?
-//    Это метод print
+//    Это метод print  2
 }
