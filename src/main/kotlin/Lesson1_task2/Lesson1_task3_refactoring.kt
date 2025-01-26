@@ -21,8 +21,8 @@ fun main() {
     println("Год полета – $yearFlight")
     val hourTakeoff = "09"
     val minuteTakeoff = "07"
-    val hourLanding="10"
-    val minuteLanding="55"
+    val hourLanding = "10"
+    val minuteLanding = "55"
     println("Взлет – $hourTakeoff:$minuteTakeoff")
     println("Посадка – $hourLanding:$minuteLanding")
 //    Подсказка для вывода: какой метод печати в консоль не делает перенос в конце строки?
