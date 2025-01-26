@@ -19,12 +19,12 @@ package Lesson1_task2
 //Часть года – 2.0547945205479453E-4
 //Апогей орбиты – 327000
 fun main() {
-    val lenght:Long=40_868_600_000L
-    val age:Byte=27
-    val partOfDay:Float=0.075F
-    val seconds:Short=6480
-    val partOfYear:Double=2.0547945205479453E-4
-    val apogee:Int=327000
+    val lenght: Long = 40_868_600_000L
+    val age: Byte = 27
+    val partOfDay: Float = 0.075F
+    val seconds: Short = 6480
+    val partOfYear: Double = 2.0547945205479453E-4
+    val apogee: Int = 327000
     println(lenght)
     println(age)
     println(partOfDay)
